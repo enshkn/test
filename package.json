@@ -1,4 +1,5 @@
 {
+  "name": "test",
   "scripts": {
     "sandcastle": "npx tsx .sandcastle/main.mts",
     "test": "node --test",
